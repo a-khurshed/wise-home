@@ -4,7 +4,7 @@
 
 In the project directory, run the following commands:
 
-### `yarn` or `yarn install`
+### `yarn setup`
 
 Installs all dependencies.
 

@@ -1,0 +1,17 @@
+# Dependencies
+/node_modules
+server/node_modules
+client/node_modules
+
+# Environment
+.env*.local
+server/.env*.local
+client/.env*.local
+
+# Log
+server/.log*.local
+
+# Misc
+.DS_Store
+server/.DS_Store
+client/.DS_Store
